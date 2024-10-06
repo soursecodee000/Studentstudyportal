@@ -10,6 +10,7 @@ crispy-bootstrap4 = "*"
 youtube-search-python = "*"
 whitenoise = "*"
 gunicorn = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
