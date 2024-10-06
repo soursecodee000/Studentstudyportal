@@ -9,6 +9,7 @@ django-crispy-forms = "*"
 crispy-bootstrap4 = "*"
 youtube-search-python = "*"
 whitenoise = "*"
+gunicorn = "*"
 
 [dev-packages]
 
